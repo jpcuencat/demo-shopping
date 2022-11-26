@@ -53,7 +53,14 @@ We are now set with the database and credentials and will incorporate them into 
 
 ## 2. Setup your application
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]
+open next link
+
+https://gitpod.io/#{your repository}
+
+for example
+
+https://gitpod.io/#https://github.com/jpcuencat/ecommerce-app
+
 
 ### Know your Gitpod
 
